@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day-1", "day-1\day-1\day-1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "common", "common\common.csproj", "{CE350A8B-A933-4388-B3CD-E7A02B3BE9D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day-2", "day-2\day-2.csproj", "{A0307A90-DAA6-4788-8547-1AA9059C3A5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +48,18 @@ Global
 		{CE350A8B-A933-4388-B3CD-E7A02B3BE9D0}.Release|x64.Build.0 = Release|Any CPU
 		{CE350A8B-A933-4388-B3CD-E7A02B3BE9D0}.Release|x86.ActiveCfg = Release|Any CPU
 		{CE350A8B-A933-4388-B3CD-E7A02B3BE9D0}.Release|x86.Build.0 = Release|Any CPU
+		{A0307A90-DAA6-4788-8547-1AA9059C3A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0307A90-DAA6-4788-8547-1AA9059C3A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0307A90-DAA6-4788-8547-1AA9059C3A5D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A0307A90-DAA6-4788-8547-1AA9059C3A5D}.Debug|x64.Build.0 = Debug|Any CPU
+		{A0307A90-DAA6-4788-8547-1AA9059C3A5D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A0307A90-DAA6-4788-8547-1AA9059C3A5D}.Debug|x86.Build.0 = Debug|Any CPU
+		{A0307A90-DAA6-4788-8547-1AA9059C3A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0307A90-DAA6-4788-8547-1AA9059C3A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0307A90-DAA6-4788-8547-1AA9059C3A5D}.Release|x64.ActiveCfg = Release|Any CPU
+		{A0307A90-DAA6-4788-8547-1AA9059C3A5D}.Release|x64.Build.0 = Release|Any CPU
+		{A0307A90-DAA6-4788-8547-1AA9059C3A5D}.Release|x86.ActiveCfg = Release|Any CPU
+		{A0307A90-DAA6-4788-8547-1AA9059C3A5D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C233CA48-E004-4BCC-A377-089E35F9F9DB} = {5734F2F3-5710-4213-A74F-A18BCC345019}
