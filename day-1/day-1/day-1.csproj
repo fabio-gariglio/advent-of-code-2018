@@ -4,4 +4,7 @@
     <RootNamespace>day_1</RootNamespace>
     <OutputType>Exe</OutputType>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\common\common.csproj" />
+  </ItemGroup>
 </Project>
